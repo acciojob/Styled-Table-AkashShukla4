@@ -1,1 +1,21 @@
 /* your code */
+table{
+	background:lightgray;
+	border: solid black 1px;
+	border: radius 5px;
+	widht: 50%;
+	height: 5px;
+	border-collapse: collapse;
+}
+th{
+	width:500px;
+	color: white;
+	background: darkblue;
+}
+tr{
+	width: 500px;
+	position:center;
+}
+#tr1 , #tr3{
+	background: white;
+}
